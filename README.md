@@ -1,23 +1,12 @@
 ### Hellooo! My Name is Amy Dutton. 👋
-* 🎨 I'm the Creative Director at [ZEAL](http://codingzeal.com)
+* 🎨 I'm the Director of Design at [ZEAL](http://codingzeal.com)
 * 📹 I have my own YouTube channel, [SelfTeach.me](http://youtube.com/c/selfteachme)
-* 🖥️ I'll Monday through Fridays from 9-10am CST on [Twitch](http://twitch.com/selfteacme)
+* 🖥️ I stream Monday through Fridays from 9-10am CST on [Twitch](http://twitch.com/selfteacme)
 * 🎙️ I co-host a podcast with James Q Quick called [Compressed.fm](http://compressed.fm)
 
-<!--
-**ahaywood/ahaywood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** [Everything Svelte](http://everythingsvelte.com)
+- 💬 **Ask me about:** Being a designer and a develper 🦄
+- 📫 **How to reach me:** The best way to reach me is through [Twitter](http://twitter.com/selfteachme)
 
 ## Connect with me
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/selfteachme)

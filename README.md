@@ -1,7 +1,7 @@
 ### Hellooo! My Name is Amy Dutton. 👋
 * 🎨 I'm the Director of Design at [ZEAL](http://codingzeal.com)
 * 📹 I have my own YouTube channel, [SelfTeach.me](http://youtube.com/c/selfteachme)
-* 🖥️ I stream Monday through Fridays from 9-10am CST on [Twitch](http://twitch.com/selfteachme)
+* 🖥️ I occassionally stream on [Twitch](http://twitch.com/selfteachme)
 * 🎙️ I co-host a podcast with James Q Quick called [Compressed.fm](http://compressed.fm)
 
 - 🔭 **I’m currently working on:** [Everything Svelte](http://everythingsvelte.com)

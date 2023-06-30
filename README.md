@@ -1,12 +1,12 @@
 # Hellooo! My Name is Amy Dutton. 👋
-* 🎨 I'm the Director of Design at [ZEAL](http://codingzeal.com)
+* 🎨 I'm a Lead Maintainer on the [RedwoodJS](https://redwoodjs.com) Core Team
 * 🏠 My corner of the internet is at [selfteach.me](http://selfteach.me)
 * 📹 I have my own [YouTube channel](http://youtube.com/c/selfteachme)
 * 🖥️ I stream on [Twitch](http://twitch.com/selfteachme)
 * 🎙️ I co-host a podcast with [James Q Quick](http://github.com/jamesqquick) called [Compressed.fm](http://compressed.fm)
 
 - 🔭 **I’m currently working on:** [Everything Svelte](http://everythingsvelte.com)
-- 💬 **Ask me about:** Being a designer and a develper 🦄
+- 💬 **[Ask me about:](https://github.com/ahaywood/ama/discussions)** Being a designer and a developer 🦄
 - 📫 **How to reach me:** The best way to reach me is through [Twitter](http://twitter.com/selfteachme)
 
 ## Connect with me

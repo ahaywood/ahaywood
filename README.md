@@ -1,11 +1,11 @@
 # Hellooo! My Name is Amy Dutton. 👋
-* 🎨 I'm a Lead Maintainer on the [RedwoodJS](https://redwoodjs.com) Core Team
-* 🏠 My corner of the internet is at [selfteach.me](http://selfteach.me)
-* 📹 I have my own [YouTube channel](http://youtube.com/c/selfteachme)
-* 🖥️ I stream on [Twitch](http://twitch.com/selfteachme)
-* 🎙️ I co-host a podcast with [James Q Quick](http://github.com/jamesqquick) called [Compressed.fm](http://compressed.fm)
+* 🌲 I'm a Lead Maintainer on the [RedwoodJS](https://redwoodjs.com) Core Team
+* 🏠 My corner of the internet is at [selfteach.me](https://selfteach.me)
+* 📹 I have my own [YouTube channel](https://youtube.com/c/selfteachme)
+* 🖥️ I stream on [Twitch](https://twitch.com/selfteachme)
+* 🎙️ I co-host a podcast with [Brad Garropy](https://github.com/bradgarropy) called [Compressed.fm](http://compressed.fm)
 
-- 🔭 **I’m currently working on:** [Everything Svelte](http://everythingsvelte.com)
+- 🔭 **I’m currently working on:** [Build Twelve](https://buildtwelve.com)
 - 💬 **[Ask me about:](https://github.com/ahaywood/ama/discussions)** Being a designer and a developer 🦄
 - 📫 **How to reach me:** The best way to reach me is through [Twitter](http://twitter.com/selfteachme)
 
